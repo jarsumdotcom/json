@@ -1,0 +1,38 @@
+{
+  "name": "Jarsum",
+  "short_name": "Jarsum",
+  "start_url": "https://www.jarsum.com/?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00672c",
+  "description": "Tempatnya Untuk Berbagi Informasi",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s48/js-fvc.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s72/js-fvc.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s96/js-fvc.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s144/js-fvc.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s168/js-fvc.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s192/js-fvc.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-WDnJnRUSC44/XFvc8YNWYwI/AAAAAAAAAiA/_5nuCfpUD4c_PZnMfQYV1syQDf6YNFd7wCK4BGAYYCw/s512/js-fvc.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
